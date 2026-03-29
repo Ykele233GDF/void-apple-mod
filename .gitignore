@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+out/
+run/
+
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# 本地配置
+gradle.properties.local
